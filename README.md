@@ -16,7 +16,7 @@ Questões para Análise
 ### 4. Comparação entre Cursos (Majors)
     Como os estudantes de diferentes cursos (Majors) se comparam em termos de GPA, horas de estudo, e taxa de frequência?
 
-O objetio da análise é extrair pontos postivos e negativos do desempenho dos alunos, descobrir se algo afeta a Horas de estudo por semana; Taxa de frequência às aulas e Média ponderada acumulada.
+O objetio da análise é extrair pontos postivos e negativos do desempenho dos alunos, descobrir se algo afeta as Horas de estudo por semana; Taxa de frequência nas aulas e Média acumulada.
 
 ## Ferramentas utilizadas
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
